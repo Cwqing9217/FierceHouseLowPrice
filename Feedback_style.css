@@ -5,6 +5,8 @@ body {
     background-color: #e9e7df;
 }
 
+thank
+
 form {
     margin: 0;
     padding: 15px;
@@ -26,7 +28,7 @@ label {
     background-color: #e0dad8;
 }
 
-button {
+.button {
     margin: 10px;
     width: 100%;
     display: inline-block;
@@ -37,6 +39,6 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.button:hover {
     background-color: #ff8c68;
 }
