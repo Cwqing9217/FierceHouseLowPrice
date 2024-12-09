@@ -1,4 +1,5 @@
 document.getElementById('feedbackForm').addEventListener('submit', funciton(){
+  event.preventDefault();
 
   document.getElementById('feedbackForm').style.display='none';
   document.getElementById('Thank you for the message').style.display='block';
