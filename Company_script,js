@@ -1,5 +1,5 @@
 let index = 0;
-const page = document.querySelectorAll('.slideeee');
+const page = document.querySelectorAll('.slideeee').length;
 const slidee = document.querySelector('.slide'); 
 
 setInterval(() => {
