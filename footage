@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Footage</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="css/Lab3.css" rel="stylesheet" type="text/css" />
+    <div class="banner">
+        <img src="images/banner_pic.jpg" alt="banner picture" height="50vh" width="100%" />
+    </div>
+</head>
+<body background-color: #e9e7df>
+    <table>
+        <tr>
+            <td class="c1">
+                <div class="content">
+                    <h2>Our Company</h2>
+                        }
+                    </script>
+                    <div id="stuff"></div>
+                    <h2>More GAQ</h2>
+            </td>
+            <td class="c2">
+                <h2>Contact Us</h2>
+                <script>
+                    }
+                </script>
+                <div id="stuff2"></div>
+                  <h2>HouseLowPri@gmail.com</h2>
+                  <h2>789-1234-9595</h2>
+                </div>
+            </td>
+            <td class="c3">
+                <h2>Privacy Policy</h2>
+                <script>
+                    }
+                </script>
+                <div id="stuff2"></div>
+                  <h2>Help</h2>
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
