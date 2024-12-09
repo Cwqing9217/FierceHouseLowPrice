@@ -1,10 +1,9 @@
-document.getElementById('feddbackForm'.addEventListener('submit', funciton(event){
+document.getElementById('feedbackForm').addEventListener('submit', funciton(event){
 
 document.getElementById('feedbackForm').style.display='none';
 document.getElementById('Thank you for your message').style.display='block';
 
-setTimeOut(function){ 
+setTimeout(function(){ 
   window.location.herf = 'footage.html';
 }, 3000);
-}
-);
+});
