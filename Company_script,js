@@ -1,0 +1,8 @@
+let index = 0;
+const page = document.querySelectorAll('.slideeee');
+const slidee = document.querySelector('.slide'); 
+
+setInterval(() => {
+    index = (index + 1) % page.length;
+    slidee.style.transform = `translateX(-${index * 100}%)`;
+}, 4000);
