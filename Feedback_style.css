@@ -1,6 +1,39 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    padding: 15px;
     background-color: #e9e7df;
+}
+
+form {
+    margin: 0;
+    padding: 15px;
+    background-color: #6b7e9a;
+    width: 100%;
+    border-radius: 8px;
+}
+
+input, textarea {
+    width: 100%;
+    border: 1px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    background-color: #e0dad8;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #f5aa93;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff8c68;
 }
