@@ -5,7 +5,11 @@ body {
     background-color: #e9e7df;
 }
 
-thank
+.Thank_container{
+    margin: 0;
+    background-color: #a09cbd;
+    padding: 15px;
+}
 
 form {
     margin: 0;
