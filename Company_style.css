@@ -1,6 +1,32 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
     background-color: #e9e7df;
+    overflow: hidden;
 }
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.slideeee {
+    display: flex;
+    flex: 100%;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    color: rgb(152, 202, 255);
+    font-size: 20px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.slide {
+    display: flex;
+    height: 100%;
+    width: 300%; 
+    transition: transform 0.5s ease-in-out; 
+}
+
